@@ -1,6 +1,6 @@
 {
   "name": "@mychili/frontend-libs-api-core",
-  "version": "2.71.0",
+  "version": "2.71.1",
   "license": "MIT",
   "publishConfig": {
     "@mychili:registry": "https://gitlab.mychili.id/api/v4/projects/74/packages/npm/"
